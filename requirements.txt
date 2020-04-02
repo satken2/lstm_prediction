@@ -1,8 +1,7 @@
-numpy
-keras
-sklearn
-tqdm
-pandas
-tensorflow
-jupyter
-matplotlib
+numpy==1.18.2
+keras==2.3.1
+sklearn==0.0
+pandas==0.25.3
+tensorflow==1.14.0
+jupyter==1.0.0
+matplotlib==3.0.3
